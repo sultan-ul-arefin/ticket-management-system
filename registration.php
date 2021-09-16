@@ -1,3 +1,4 @@
 <?php include 'header.php'; ?>
-        <?php include 'registration_form.php'; ?>
+<h1 style="text-align:center">Admin Registration</h1>
+<?php include './form/registration_form.php'; ?>
 <?php include 'footer.php'; ?>
